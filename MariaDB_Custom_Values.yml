@@ -1,0 +1,5 @@
+auth:
+  database: "my-dev-db"
+  password: "Devdb54321"
+  username: "dev-2"
+  rootPassword: "Devdb54321"
